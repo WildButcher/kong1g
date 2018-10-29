@@ -1,0 +1,46 @@
+[
+	{
+		"configure_content": {
+			"book_content_tag": "#content",
+			"book_query_tag": "#list dd a",
+			"pre_fix_url": "http://www.booktxt.com",
+			"book_name_tag": "#list dt"
+		},
+		"configure_docs": "\u6bcf\u4e00\u4e2a\u7f51\u7ad9\u5bf9\u5e94\u7684\u914d\u7f6e\u8bf4\u660e",
+		"configure_key": "booktxt",
+		"short_name_flag": false
+	},
+	{
+		"configure_content": {
+			"book_content_tag": "#content",
+			"book_query_tag": "#list dl dd a",
+			"pre_fix_url": "http://www.qu.com",
+			"book_name_tag": "#info h1"
+		},
+		"configure_docs": "\u6bcf\u4e00\u4e2a\u7f51\u7ad9\u5bf9\u5e94\u7684\u914d\u7f6e\u8bf4\u660e",
+		"configure_key": "qu",
+		"short_name_flag": false
+	},
+	{
+		"configure_content": {
+			"book_content_tag": "#main .zw",
+			"book_query_tag": "#yuedu li a",
+			"pre_fix_url": "http://www.xiaoshuotxt.org",
+			"book_name_tag": "#zuo .bktitle h1"
+		},
+		"configure_docs": "\u6bcf\u4e00\u4e2a\u7f51\u7ad9\u5bf9\u5e94\u7684\u914d\u7f6e\u8bf4\u660e",
+		"configure_key": "xiaoshuotxt",
+		"short_name_flag": false
+	},
+    {
+        "configure_content": {
+            "book_content_tag": "#content",
+            "book_query_tag": "#list dl dd a",
+            "pre_fix_url": "http://www.biquge.com.tw",
+            "book_name_tag": "#info h1"
+        },
+        "configure_docs": "\u6bcf\u4e00\u4e2a\u7f51\u7ad9\u5bf9\u5e94\u7684\u914d\u7f6e\u8bf4\u660e",
+        "configure_key": "biquge",
+        "short_name_flag": false
+    }
+]
